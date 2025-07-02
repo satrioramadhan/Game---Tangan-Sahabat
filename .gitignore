@@ -1,0 +1,27 @@
+[Libraries]
+[Libraries/]
+Temp/
+Obj/
+Build/
+Builds/
+Library/
+Logs/
+MemoryCaptures/
+
+# Visual Studio / JetBrains
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.sdf
+*.tmp
+*.userprefs
+*.booproj
+*.svd
+
+# OS generated
+.DS_Store
+Thumbs.db
